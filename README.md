@@ -1,0 +1,1 @@
+# ike-vind-smart-adapter
